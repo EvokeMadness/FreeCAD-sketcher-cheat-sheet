@@ -1,2 +1,2 @@
 # FreeCAD-Cheat-Sheets
-Cheat sheets for the FreeCAD project
+UNOFFICIAL Cheat sheets for the FreeCAD project
