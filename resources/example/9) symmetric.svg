@@ -3,12 +3,12 @@
 
 <svg
    width="5.0200009in"
-   height="4.0000134in"
-   viewBox="0 0 127.50803 101.60034"
+   height="4.1000409in"
+   viewBox="0 0 127.50803 104.14104"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="6) symmetry.svg"
+   sodipodi:docname="9) symmetric.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="in"
      showgrid="false"
-     inkscape:zoom="0.53608752"
-     inkscape:cx="207.98843"
-     inkscape:cy="92.335669"
+     inkscape:zoom="1.072175"
+     inkscape:cx="126.37862"
+     inkscape:cy="205.65672"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -59,14 +59,14 @@
        spacingx="6.35"
        spacingy="6.35"
        empspacing="4"
-       originx="-723.9"
-       originy="-227.70568" />
+       originx="-723.90005"
+       originy="-227.70567" />
     <sodipodi:guide
-       position="-723.90001,49.906021"
+       position="-723.90002,52.446719"
        orientation="0,-1"
        id="guide373" />
     <sodipodi:guide
-       position="-604.45849,272.13904"
+       position="-604.45849,274.67974"
        orientation="0,-1"
        id="guide30691" />
   </sodipodi:namedview>
@@ -1497,13 +1497,6 @@
            r="0.50800002"
            transform="rotate(20.662397)" />
         <circle
-           style="fill:none;stroke:#00aad4;stroke-width:0.264583"
-           id="circle96355"
-           cx="872.28748"
-           cy="-30.229834"
-           r="5.0799999"
-           transform="rotate(20.662397)" />
-        <circle
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            id="circle96357"
            cx="-872.28748"
@@ -1518,6 +1511,13 @@
            style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
            d="m 810.73258,247.37407 16.11268,32.13671"
            id="path96361" />
+        <circle
+           style="fill:none;stroke:#00aad4;stroke-width:0.264583"
+           id="circle530"
+           cx="872.28754"
+           cy="-30.229836"
+           r="7.6199999"
+           transform="rotate(20.662397)" />
       </g>
       <image
          width="3.3866665"
