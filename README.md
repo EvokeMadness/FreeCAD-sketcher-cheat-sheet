@@ -1,5 +1,5 @@
 # FreeCAD Cheat Sheets
-## Open source cheat sheets for FreeCAD workbenches
+### Open source cheat sheets for FreeCAD workbenches
 
 December 02, 2021
 
