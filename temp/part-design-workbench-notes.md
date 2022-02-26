@@ -12,7 +12,7 @@ Describe Constructive Solid Geometry (CSG) modeling in an understandable and too
 
 # Part Design Workbench
 
-- Generally used in mechanical design
+- Generally used in Mechanical Design
 - Solids are constructed using sketches
 	+ Sketches are two dimensional and planar
 		* Sketches must be a closed figure to construct solid geometry
@@ -20,7 +20,7 @@ Describe Constructive Solid Geometry (CSG) modeling in an understandable and too
 - Following operations are attached to existing geometry
 - Operations and features are organized starting from the first operation to the most recent operation.
 
-# Four Basic Operations of Solid Modeling
+# Four Basic Constructive Operations of Solid Modeling
 
 1. Extrude
 	1. Requires a direction or line
@@ -34,17 +34,26 @@ Describe Constructive Solid Geometry (CSG) modeling in an understandable and too
 ---
 
 - Operations may be additive or subtractive
-	+ Subtractive operations require solid geometry to cut or remove material from
-- Sketches may be attached to an existing face
+	+ Subtractive operations require solid geometry to cut or remove material
+- Sketches may be attached to an existing Face
 	+ This face must be *planar*
-- Sketches may reference preexisting edges outside of the sketch
+- Sketches may reference an existing Edge
 
 # Basic Applied Features
 
 - Fillet and Chamfer
-	+ Applied to an edge
+	+ Applied to an Edge
 	+ Can add or remove material depending on the edge's location and adjacent faces
 - Pattern or Array
+
+# Datums or References
+
+- Basic geometry
+	+ Point or Vertex
+		* 'Vertex' or Vertices are points where two or more Lines meet
+	+ Line, Edge, or Axis
+	+ Face/Plane
+	+ LCS or Local Coordinate System. Similar to Ordinate Dimensioning.
 
 # TO DO
 
