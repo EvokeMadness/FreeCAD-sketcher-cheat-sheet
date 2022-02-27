@@ -56,7 +56,7 @@ Describe Constructive Solid Geometry (CSG) modeling in an understandable and too
 
 # Notes
 
-Planar: geometry that is on the same 2 dimensional plane
+Planar: geometry that is on the same face or plane
 
 # TO DO
 
