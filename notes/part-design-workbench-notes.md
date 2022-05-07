@@ -63,4 +63,4 @@ Planar: geometry that is on the same face or plane
 - What is a closed figure?
 	+ What is and isn't a closed figure?
 - Extrude, Boss, Add, Pad.
-- 
+- 3D modeling for mechanical design using FreeCAD

@@ -24,4 +24,4 @@ Gossard, D. (2009, spring). *Creating CAD components 2*. Design and Manufacturin
 
 # License
 
-This project is licensed under the permissive MIT license and distribution is encouraged. I also invite beginner and experienced users of FreeCAD to collaborate by submitting issues and enhancements on GitHub. If you are a FreeCAD user and have created a document in a similar style; would like it to be a part of the project, please submit a pull request. Review the [CONTRIBUTING.md](/CONTRIBUTING.md) document for more information!
+This project is licensed under the permissive MIT license and distribution is encouraged. I also invite beginner and experienced users of FreeCAD to collaborate by submitting issues and enhancements on GitHub. If you are a FreeCAD user and have created a document in a similar style; would like it to be a part of the project, please submit a pull request. Review the CONTRIBUTING.md document for more information. You can find it here: [github.com/EvokeMadness/FreeCAD-Cheat-Sheets/blob/main/CONTRIBUTING.md](https://github.com/EvokeMadness/FreeCAD-Cheat-Sheets/blob/main/CONTRIBUTING.md)
