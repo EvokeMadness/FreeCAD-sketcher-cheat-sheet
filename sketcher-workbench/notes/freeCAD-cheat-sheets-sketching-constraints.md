@@ -7,7 +7,7 @@ Menu bar → Tools → Customize... → Keyboard → Category: Sketcher
 ## Shortcuts
 
 1) Coincident (C)
-2) Point on Object (Shift + O)
+2) Point onto Object (Shift + O)
 3) Vertical (V)
 4) Horizontal (H)
 5) Parallel (Shift + P)
@@ -19,7 +19,7 @@ Menu bar → Tools → Customize... → Keyboard → Category: Sketcher
 11) Lock (none)
 12) Horizontal Distance (Shift + H)
 13) Vertical Distance (Shift + V)
-14) Length (Shift + D)
+14) Distance (Shift + D)
 15) Radius (none)
 16) Diameter (none)
 17) Angle (A)
