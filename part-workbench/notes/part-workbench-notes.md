@@ -6,9 +6,9 @@ June 1, 2022
 
 Allie Gonzales
 
-# Goal
+# Goal:
 
-FreeCAD users will learn to use the part workbench through a guided exercise. Students will use boolean operations such as cut, union, and common to model a weighted positioning arm base.
+FreeCAD users will learn to use the part workbench through a guided exercise. Students will use boolean operations such as cut, union, and intersection to model a weighted positioning arm base.
 
 # Guide & Exercise
 
@@ -74,7 +74,7 @@ Set the view to 'Isometric' and extrude each face to their measured length. Refe
 
 ![](../resources/toolbars/extrude-command.png)
 
-An example of each extruded face is provided below. For each extrusion, set the direction to 'Custom direction' and ensure that the value set for 'Z' is positive. The face for the hole can be extruded to an arbitrary value larger than 1+3/8", I have chosen to extrude this face to two inches.
+An example of each extruded face is provided below. For each extrusion, set the direction to ‘Custom direction’ and ensure that the value set for ‘Z’ is positive. The face for the hole can be extruded to an arbitrary value equal to or larger than 1+3/8”, I have chosen to extrude this face to two inches.
 
 ![](../resources/extrude/extrude-top.png)
 ![](../resources/extrude/extrude-top-image.png)
@@ -123,7 +123,7 @@ The outliner should look like the example below.
 
 **Aligning the objects**
 
-To preform a 'Common' operation the objects must be aligned according to the view projected to create the desired shape. We will use FreeCAD's alignment tool to place each object inside each other. Select an edge on an object you would like to stay fixed. I've preselected one on the front projection. Select another edge that will be collinear with the first object. Start the Alignment command (Menubar: Edit → Alignment).
+To preform an 'Intersection' operation the objects must be aligned according to the view projected to create the desired shape. We will use FreeCAD's alignment tool to place each object inside each other. Select an edge on an object you would like to stay fixed. I've preselected one on the front projection. Select another edge that will be collinear with the first object. Start the Alignment command (Menubar: Edit → Alignment).
 
 ![](../resources/alignment-1.png)
 
@@ -139,9 +139,9 @@ Preform the same steps to make the second alignment. The drawing should now look
 
 ![](../resources/alignment-4.png)
 
-**Boolean operations: Common**
+**Boolean operations: Intersection**
 
-Select all three objects and preform a 'Common' operation.
+Select all three objects and preform an 'Intersection' operation.
 
 ![](../resources/common.png)
 
