@@ -1,16 +1,16 @@
-# Part Workbench Notes
+## FreeCAD Part Workbench: Guided exercise
 
 June 1, 2022
 
-# Authors
+## Authors
 
 Allie Gonzales
 
-# Goal:
+## Description:
 
 FreeCAD users will learn to use the part workbench through a guided exercise. Students will use boolean operations such as cut, union, and intersection to model a weighted positioning arm base.
 
-# Guide & Exercise
+## Guide & Exercise
 
 **Importing the drawing**
 
