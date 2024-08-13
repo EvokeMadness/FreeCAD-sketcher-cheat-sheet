@@ -1,42 +1,34 @@
-# FreeCAD
-
-## Mechanical
+### Computer-aided Design
 
 - Draft
-- FEM
 - OpenSCAD
-- Part Design
+- PartDesign
 - Part
-- Path
 - Reverse Engineering
 - Sketcher
+- Surface
 - TechDraw
 
-## Architectural
+### 3D Model
+
+- Mesh
+- Points
+
+### Analysis
+
+- FEM
+
+### Computer-aided Manufacturing
+
+- Path
+
+### Architectural
 
 - Arch
 
-## Miscellaneous
+### Miscellaneous
 
 - Inspection
-- none
-- Plot
-- Spreadsheet
-- Start
-- Test framework
-- Web
-
-## Computer Graphics
-
-- Image
-- Mesh Design
-- Points
-- Raytracing
-- Surface
-
-# Revision 1.1
-
-- Assembly 3
-- Drawing
-- Glider
 - Robot
+- Spreadsheet
+- Web
