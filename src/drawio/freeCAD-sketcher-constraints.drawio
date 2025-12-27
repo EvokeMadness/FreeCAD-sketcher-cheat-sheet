@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3" pages="9">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3" pages="8">
   <diagram id="yNsq3B3UDWVUPkf0WJD7" name="Page-1">
-    <mxGraphModel dx="1603" dy="963" grid="0" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="626" grid="0" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -105,7 +105,7 @@
           <mxGeometry x="575" y="1000" width="225" height="25" as="geometry" />
         </mxCell>
         <object label="© 2022 EvokeMadness&amp;nbsp;MIT License" id="Pn6pcUHo-fYt61vBU44u-2">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=default;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=default;fontFamily=Helvetica;fontSize=14;" parent="1" vertex="1">
             <mxGeometry x="425" y="1050" width="375" height="25" as="geometry" />
           </mxCell>
         </object>
@@ -577,94 +577,6 @@
         </mxCell>
         <object label="© 2022 EvokeMadness&amp;nbsp;MIT License" id="LECd2L9ULBdiwxLtxTEp-0">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=default;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="VDJf089mKmmmXx6l_Fcg-1">
-            <mxGeometry x="425" y="1050" width="375" height="25" as="geometry" />
-          </mxCell>
-        </object>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="h9rloI4aKlMIdOmK8b0y" name="Page-9">
-    <mxGraphModel dx="1303" dy="783" grid="0" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
-      <root>
-        <mxCell id="MtP3eqDM6xanCb5_8MUe-0" />
-        <mxCell id="MtP3eqDM6xanCb5_8MUe-1" parent="MtP3eqDM6xanCb5_8MUe-0" />
-        <mxCell id="N6Yvkd50Uht89-cNz4QV-0" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 52px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Sketcher Constraints: &lt;/font&gt;&lt;font style=&quot;&quot;&gt;Shortcuts&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=#418FDE;html=1;fontSize=40;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;spacingLeft=0;fontColor=#FFFFFF;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry width="850" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="OtL55k_dqBrxH2FtzpX3-0" value="Coincident (C)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainCoincident.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;labelPosition=right;align=left;spacingLeft=20;fontSize=24;fontFamily=Helvetica;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="50" y="125" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OtL55k_dqBrxH2FtzpX3-1" value="Point onto Object (O)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainPointOnObject.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;labelPosition=right;align=left;fontSize=24;spacingLeft=20;fontFamily=Helvetica;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="50" y="219" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OtL55k_dqBrxH2FtzpX3-2" value="Vertical (V)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainVertical.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;labelPosition=right;align=left;fontSize=24;spacingLeft=20;fontFamily=Helvetica;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="50" y="314" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OtL55k_dqBrxH2FtzpX3-3" value="Horizontal (H)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainHorizontal.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;labelPosition=right;align=left;fontSize=24;spacingLeft=20;fontFamily=Helvetica;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="50" y="408" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OtL55k_dqBrxH2FtzpX3-4" value="Parallel (P)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainParallel.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;labelPosition=right;align=left;fontSize=24;spacingLeft=20;fontFamily=Helvetica;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="50" y="503" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OtL55k_dqBrxH2FtzpX3-5" value="Perpendicular (N)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainPerpendicular.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;labelPosition=right;align=left;fontSize=24;spacingLeft=20;fontFamily=Helvetica;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="50" y="597" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OtL55k_dqBrxH2FtzpX3-6" value="Tangent (T)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainTangent.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;labelPosition=right;align=left;fontSize=24;spacingLeft=20;fontFamily=Helvetica;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="50" y="692" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OtL55k_dqBrxH2FtzpX3-7" value="Equal (E)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainEqual.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;labelPosition=right;align=left;fontSize=24;spacingLeft=20;fontFamily=Helvetica;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="50" y="786" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OtL55k_dqBrxH2FtzpX3-8" value="Symmetric (S)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainSymmetric.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;labelPosition=right;align=left;fontSize=24;spacingLeft=20;fontFamily=Helvetica;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="50" y="881" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OtL55k_dqBrxH2FtzpX3-9" value="Block (K, B)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainBlock.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;labelPosition=right;align=left;fontSize=24;spacingLeft=20;fontFamily=Helvetica;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="50" y="975" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OtL55k_dqBrxH2FtzpX3-10" value="Lock (K, L)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainLock.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;fontSize=24;spacingLeft=20;labelPosition=right;align=left;fontFamily=Helvetica;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="450" y="125" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OtL55k_dqBrxH2FtzpX3-11" value="Horizontal Distance (L)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainDistanceX.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;fontSize=24;spacingLeft=20;labelPosition=right;align=left;fontFamily=Helvetica;flipV=1;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="450" y="211" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OtL55k_dqBrxH2FtzpX3-12" value="Vertical Distance (I)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainDistanceY.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;fontSize=24;spacingLeft=20;labelPosition=right;align=left;fontFamily=Helvetica;flipV=1;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="450" y="296" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OtL55k_dqBrxH2FtzpX3-13" value="Distance (K, D)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainDistance.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;fontSize=24;spacingLeft=20;labelPosition=right;align=left;fontFamily=Helvetica;flipV=1;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="450" y="382" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OtL55k_dqBrxH2FtzpX3-14" value="Radius (K, R)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainRadius.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;fontSize=24;spacingLeft=20;labelPosition=right;align=left;fontFamily=Helvetica;flipV=1;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="450" y="554" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OtL55k_dqBrxH2FtzpX3-15" value="Diameter (K, O)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainDiameter.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;fontSize=24;spacingLeft=20;labelPosition=right;align=left;fontFamily=Helvetica;flipV=1;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="450" y="639" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OtL55k_dqBrxH2FtzpX3-16" value="Angle (K, A)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainAngle.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;fontSize=24;spacingLeft=20;labelPosition=right;align=left;fontFamily=Helvetica;flipV=1;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="450" y="725" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="prDNmbzN7yBEwX4fTQ4g-0" value="" style="endArrow=none;html=1;rounded=0;fontSize=24;strokeColor=default;strokeWidth=2;fontFamily=Helvetica;" parent="MtP3eqDM6xanCb5_8MUe-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="425" y="1025" as="sourcePoint" />
-            <mxPoint x="425" y="125" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="giI9j563LfMRVnKxqW66-0" value="Radiam (K, S)" style="shape=image;html=1;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://raw.githubusercontent.com/EvokeMadness/FreeCAD-sketcher-cheat-sheet/main/assets/icons/Sketcher_ConstrainRadiam.svg;fontColor=default;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;fontSize=24;spacingLeft=20;labelPosition=right;align=left;fontFamily=Helvetica;flipV=1;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="450" y="468" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rMKNTGNqDf97flIAyBUa-0" value="Version 1.7 | Updated for FreeCAD 1.0.0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=default;fontFamily=Helvetica;fontSize=14;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="50" y="1050" width="375" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="iHVC-E9ULorZX4Xrd0sO-0" value="Customize shortcuts!" style="swimlane;whiteSpace=wrap;html=1;connectable=0;dropTarget=0;fillColor=#B3B3B3;swimlaneFillColor=none;collapsible=0;fontColor=none;strokeColor=default;fontSize=18;fontStyle=0;container=0;startSize=25;align=center;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="450" y="800" width="350" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="nMQW8JOhfXYzM8eyh-sQ-0" value="Menu bar → Tools → Customize... → Keyboard&amp;nbsp;→ Category: Sketcher" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Helvetica;fontSize=18;fontColor=default;labelPosition=center;verticalLabelPosition=middle;spacingLeft=20;spacingBottom=20;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="450" y="825" width="325" height="175" as="geometry" />
-        </mxCell>
-        <mxCell id="XOoanrrkLNO-UhjkYBix-0" value="!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;sketch=0;fontColor=#B3B3B3;labelPosition=center;verticalLabelPosition=middle;fontSize=84;fontStyle=1;spacingTop=10;fontFamily=Helvetica;spacingBottom=20;spacingRight=20;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
-          <mxGeometry x="750" y="925" width="50" height="75" as="geometry" />
-        </mxCell>
-        <object label="© 2022 EvokeMadness&amp;nbsp;MIT License" id="ebvUibf2we4w33WYXaW9-0">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=default;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="MtP3eqDM6xanCb5_8MUe-1">
             <mxGeometry x="425" y="1050" width="375" height="25" as="geometry" />
           </mxCell>
         </object>
